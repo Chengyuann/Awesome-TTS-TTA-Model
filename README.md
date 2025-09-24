@@ -4,6 +4,9 @@
 
 
 
+- [2024/11] **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2411.01156)][[code](https://github.com/fishaudio/fish-speech)] :heavy_check_mark:
+
+
 - [2024/10] **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** [[paper](https://arxiv.org/abs/2410.06885)][[code](https://github.com/SWivid/F5-TTS)][[demo](https://swivid.github.io/F5-TTS/)] :heavy_check_mark:
 
 
