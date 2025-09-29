@@ -6,11 +6,6 @@
 
 
 
-- [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
-
-
-
-
 
 
 ### AR
@@ -25,6 +20,11 @@
 
 
 - [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)] :heavy_check_mark:
+
+
+- [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
+
+
 
 ### Dual-AR 
 
