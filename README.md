@@ -18,6 +18,7 @@
 
 - [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] :heavy_check_mark:
 
+<img width="1968" height="638" alt="image" src="https://github.com/user-attachments/assets/d3a320a2-4e38-42c6-b06f-395f596e7967" />
 
 
 - [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)] :heavy_check_mark:
