@@ -46,3 +46,9 @@
 
 
 - [2024/09] **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** [[paper](https://arxiv.org/abs/2409.00750)][[code](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)][[demo](https://maskgct.github.io/)] *Masked Generative Model* | *Similar to Seed-TTS* :heavy_check_mark:
+
+
+## Text-to-Audio Synthesizers
+
+- [2024/12] **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization** [[paper](https://arxiv.org/abs/2412.21037)][[code](https://github.com/declare-lab/TangoFlux)][[demo](https://tangoflux.github.io/)] :heavy_check_mark:
+
