@@ -13,6 +13,7 @@
 
 - [2025/05] **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder** [[paper](https://arxiv.org/abs/2505.07916)][[demo](https://minimax-ai.github.io/tts_tech_report/)]
 
+<img width="1835" height="349" alt="image" src="https://github.com/user-attachments/assets/a1ed9694-660e-4515-97b9-676a1c4d1ad3" />
 
 
 - [2025/02] **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System** [[paper](https://arxiv.org/abs/2502.05512)][[code](https://github.com/index-tts/index-tts)][[demo](https://index-tts.github.io/)] :heavy_check_mark:
