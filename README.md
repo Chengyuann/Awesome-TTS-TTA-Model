@@ -11,6 +11,9 @@
 ### AR
 
 
+- [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
+
+
 - [2025/05] **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder** [[paper](https://arxiv.org/abs/2505.07916)][[demo](https://minimax-ai.github.io/tts_tech_report/)]
 
 <img width="1835" height="349" alt="image" src="https://github.com/user-attachments/assets/a1ed9694-660e-4515-97b9-676a1c4d1ad3" />
@@ -22,9 +25,6 @@
 
 
 - [2024/12] **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models** [[paper](https://arxiv.org/abs/2412.10117)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/cosyvoice2/)] :heavy_check_mark:
-
-
-- [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
 
 
 
@@ -53,4 +53,6 @@
 ## Text-to-Audio Synthesizers
 
 - [2024/12] **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow Matching and Clap-Ranked Preference Optimization** [[paper](https://arxiv.org/abs/2412.21037)][[code](https://github.com/declare-lab/TangoFlux)][[demo](https://tangoflux.github.io/)] :heavy_check_mark:
+
+<img width="1323" height="544" alt="image" src="https://github.com/user-attachments/assets/b3b03da6-53ab-411a-877c-3cafe15f4c10" />
 
