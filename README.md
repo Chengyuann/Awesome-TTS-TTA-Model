@@ -11,6 +11,14 @@
 ### AR
 
 
+- [2025/09] **FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot** [[paper](https://arxiv.org/abs/2509.02020)][[code](https://github.com/FireRedTeam/FireRedTTS2)][[demo](https://fireredteam.github.io/demos/firered_tts_2/)] :heavy_check_mark:
+
+
+<img width="954" height="491" alt="image" src="https://github.com/user-attachments/assets/6847bf60-5fc1-4740-a5b6-446a02599cd7" />
+
+- [2025/06] **IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech** [[paper](https://arxiv.org/abs/2506.21619)][[code](https://github.com/index-tts/index-tts/tree/indextts_v2)][[demo](https://index-tts.github.io/index-tts2.github.io/)] :heavy_check_mark:
+
+  
 - [2025/05] **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training** [[paper](https://arxiv.org/abs/2505.17589)][[demo](https://funaudiollm.github.io/cosyvoice3/)]
 
 
